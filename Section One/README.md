@@ -1,0 +1,3 @@
+
+# Getting Started
+The Files tree is the place to make new folders and files. Just right click to do one of those actions. Kinda a silly way to handle it if you ask me...
